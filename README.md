@@ -22,6 +22,10 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Disclaimer
+
+This repository is created as a learning resource from [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M&list=WL&index=4&ab_channel=MariusEspejo). I keep this in my github so that I can come back here for future reference.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
